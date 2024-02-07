@@ -1,0 +1,12 @@
+
+mongo db :
+docker run -d -p 27017:27017 --name shahramMongoDB mongo
+
+raftan to haste mongo
+
+docker exec -it shahramMongoDB /bin/bash
+
+command hash 
+
+ls :list itema ro miyare
+mongo : mongo baramon faal mishe va mitoonim dastorat va commmand haye data base ro bezanim
