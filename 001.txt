@@ -10,3 +10,6 @@ command hash
 
 ls :list itema ro miyare
 mongo : mongo baramon faal mishe va mitoonim dastorat va commmand haye data base ro bezanim
+
+
+mongod : bara vorod
